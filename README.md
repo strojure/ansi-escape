@@ -12,7 +12,7 @@ ANSI color escape sequences.
 ## Usage
 
 ```clojure
-(ns user.readme-usage
+(ns readme.usage
   (:require [strojure.ansi-escape.core :as ansi]))
 
 ;; Print `[ERROR]` as yellow on red
