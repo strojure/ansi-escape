@@ -1,4 +1,4 @@
-(defproject com.github.strojure/ansi-escape "1.0.2-6-SNAPSHOT"
+(defproject com.github.strojure/ansi-escape "1.0.2-08"
   :description "ANSI color escape sequences."
   :url "https://github.com/strojure/ansi-escape"
   :license {:name "The Unlicense" :url "https://unlicense.org"}
